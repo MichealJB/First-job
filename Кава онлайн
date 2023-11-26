@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Кава Онлайн</title>
+</head>
+<body style="background-color:rgba(255, 255, 255, 0);">
+  <header>
+    <h1>Кава Онлайн</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">Про нас</a></li>
+        <li><a href="#menu">Меню</a></li>
+        <li><a href="#contact">Контакти</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>Про нас</h2>
+    <p>Вітаємо вас на нашому сайті Кава Онлайн! Ми пропонуємо вам широкий вибір найсмачнішої кави з усього світу.</p>
+  </section>
+
+  <section id="menu">
+    <h2>Меню</h2>
+    <ul>
+      <li>
+        <h3>Еспресо</h3>
+        <p>Ціна: 40 грн</p>
+        <button style="color:rgb(255, 0, 0);">Додати до кошика</button>
+      </li>
+      <li>
+        <h3>Капучино</h3>
+        <p>Ціна: 60 грн</p>
+        <button style="color:rgb(255, 0, 0);">Додати до кошика</button>
+      </li>
+      <li>
+        <h3>Латте</h3>
+        <p>Ціна: 60 грн</p>
+        <button style="color:rgb(255, 0, 0);">Додати до кошика</button>
+        <!-- Коментарій -->
+      </li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Контакти</h2>
+    <p>Зв'яжіться з нами, щоб замовити каву або отримати додаткову інформацію:</p>
+    <ul>
+      <li>Телефон: 123-456-789</li>
+      <li>Email: info@coffeeonline.com</li>
+      <li>Адреса: вул. Кавова, 1, Місто</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2021 Кава Онлайн. Усі права захищено.</p>
+  </footer>
+</body>
+</html>
